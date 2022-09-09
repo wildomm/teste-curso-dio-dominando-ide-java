@@ -10,6 +10,7 @@ public class PrimeiroProgramaJava {
 		Gato gato = new Gato();
 		
 		System.out.println(gato);
+		
 		/*int a= 6;
 		int b= 5;
 		System.out.println("Hello World! "+ (a+b));*/
